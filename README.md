@@ -9,6 +9,9 @@ Examples of generated results are placed in the above `examples` folder. At defa
 
 # Installation
 You just need that `aWaifu.ipynb` file, nothing more. Upload it to your [Google Colab](https://colab.research.google.com/), and you are ready to go.
+```bash
+wget https://raw.githubusercontent.com/git-akihakune/aWaifu-Colab/main/aWaifu.ipynb
+```
 
 ## Basic Usage
 For those who just want to try it out, there are 3 switched right at the top of the script.
