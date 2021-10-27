@@ -7,7 +7,7 @@ Mass scale anime waifu profile generator, run in Google Colab
 
 Examples of generated results are placed in the above `examples` folder. At default configuration (like in the examples), it takes about 10 secs each 10 pics.
 
-# Installation
+## Installation
 You just need that `aWaifu.ipynb` file, nothing more. Upload it to your [Google Colab](https://colab.research.google.com/), and you are ready to go.
 ```bash
 wget https://raw.githubusercontent.com/git-akihakune/aWaifu-Colab/main/aWaifu.ipynb
