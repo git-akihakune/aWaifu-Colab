@@ -28,6 +28,7 @@ waifuGen = Waifus(outputPath:str, numberOfProfiles:int, verbosity:bool, bigWaifu
 <br>
 
 Here are the default arguments' values:
+
 ![](img/default_class_arguments.png)
 <br>
 
