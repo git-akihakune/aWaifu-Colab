@@ -65,7 +65,7 @@ Waifus.generateProfiles() -> None # Generate waifu images and profile
 ```
 <br>
 
-Not a lot of function, but to save your precious time, in short, you just need `Waifus.generateProfiles()`.
+Not a lot of functions, but to save your precious time, in short, you just need `Waifus.generateProfiles()`.
 <br>
 
 ## Tech Stack
