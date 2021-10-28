@@ -8,7 +8,7 @@ Mass scale anime waifu profile generator, run in Google Colab
 Examples of generated results are placed in the above `examples` folder. At default configuration (like in the examples), it takes about 10 secs each 10 pics.
 
 ## Installation
-You just need that `aWaifu.ipynb` file, nothing more. Upload it to your [Google Colab](https://colab.research.google.com/), and you are ready to go.
+You just need that [`aWaifu.ipynb`](https://raw.githubusercontent.com/git-akihakune/aWaifu-Colab/main/aWaifu.ipynb) file, nothing more. Upload it to your [Google Colab](https://colab.research.google.com/), and you are ready to go.
 ```bash
 wget https://raw.githubusercontent.com/git-akihakune/aWaifu-Colab/main/aWaifu.ipynb
 ```
@@ -72,7 +72,7 @@ Not a lot of functions, but to save your precious time, in short, you just need 
 Ain't much. It uses [Python WaifuLabs wrapper](https://github.com/Taromaruu/WaifuLabs) as well as [Name Fake API](https://namefake.com/api) - free to use and no token needed.
 
 ## Faster execution time
-![](img/faster.jpg)
+<img width="50%" src="img/faster.jpg">
 <br>
 
 In my opinion, approximately 1 profile/sec is a pretty decent speed. But if you still want to go faster, you can look for a `sleep` statement in the code, and remove it. However, this is not recommended.
