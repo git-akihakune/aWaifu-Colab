@@ -14,7 +14,7 @@ wget https://raw.githubusercontent.com/git-akihakune/aWaifu-Colab/main/aWaifu.ip
 ```
 
 ## Basic Usage
-For those who just want to try it out, there are 3 switched right at the top of the script.
+For those who just want to try it out, there are 3 switches right at the top of the script.
 ```python
 # Turn these on if you are too lazy to read the code
 autoRun = False
